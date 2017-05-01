@@ -44,9 +44,9 @@
 			}
 			"Scale"
 			{
-				"X" "1"
+				"X" "2.5"
 				"Y" "1"
-				"Z" "1"
+				"Z" "2.5"
 			}
 		}
 	}
@@ -56,9 +56,34 @@
 		{
 			"Position"
 			{
-				"X" "1905.206"
-				"Y" "75.80626"
-				"Z" "-1665.792"
+				"X" "-1875.03"
+				"Y" "172.8175"
+				"Z" "-842.9023"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "22.50001"
+				"Y" "13.44481"
+				"Z" "12.6"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1093.163"
+				"Y" "73.85607"
+				"Z" "-12.29932"
 			}
 			"Rotation"
 			{
@@ -69,9 +94,109 @@
 			}
 			"Scale"
 			{
-				"X" "2.5"
-				"Y" "1"
-				"Z" "2.5"
+				"X" "3.299999"
+				"Y" "3.299999"
+				"Z" "3.299999"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1170.437"
+				"Y" "73.85607"
+				"Z" "7.703369"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "13.6"
+				"Y" "13.6"
+				"Z" "13.6"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-857.235"
+				"Y" "61.08128"
+				"Z" "42.02881"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "13.10001"
+				"Y" "9.300004"
+				"Z" "9.300004"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-805.3069"
+				"Y" "58.10511"
+				"Z" "-12.34985"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "7.044514"
+				"Y" "7.044514"
+				"Z" "7.044514"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-728.2148"
+				"Y" "60.88309"
+				"Z" "-32.42874"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "9.590178"
+				"Y" "7.102898"
+				"Z" "12.97306"
 			}
 		}
 	}
