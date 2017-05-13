@@ -1,7 +1,9 @@
+"Available_Instance_ID" "6"
 "Items"
 [
 	{
 		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "1"
 		"Item"
 		{
 			"Position"
@@ -27,6 +29,7 @@
 	}
 	{
 		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "2"
 		"Item"
 		{
 			"Position"
@@ -52,6 +55,7 @@
 	}
 	{
 		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "3"
 		"Item"
 		{
 			"Position"
@@ -77,6 +81,7 @@
 	}
 	{
 		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "4"
 		"Item"
 		{
 			"Position"
@@ -97,6 +102,32 @@
 				"X" "153.1337"
 				"Y" "2.006454"
 				"Z" "123.657"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "5"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "330"
+				"Y" "123"
+				"Z" "-1601.394"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "40"
+				"Y" "1"
+				"Z" "40"
 			}
 		}
 	}
